@@ -1,2 +1,2 @@
 # HomeScreen
-Just a HomeScreen ofr web browsers
+Just a HomeScreen for web browsers, nothing too flashy.
