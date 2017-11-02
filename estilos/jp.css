@@ -1,0 +1,17 @@
+body{
+	background-size: 1280px 900px;
+  background-image: url("../Imagenes/fondo/jp2.jpg");
+	background-repeat:no-repeat; 
+	font-family: 'Gulim', sans-serif;
+	font-size: 16px;
+}
+
+#texto{
+  margin-left: 250px;
+  margin-top: 400px;
+  width: 200px;
+}
+
+#traductor{
+  background-color: rgba(255, 240, 210, 0.3);
+}

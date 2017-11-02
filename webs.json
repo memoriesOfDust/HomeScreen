@@ -1,0 +1,24 @@
+var jsonObject  = 
+{
+	"webs":
+		[
+			{
+				"Nombre":”Manga List”,
+    			"link":"www.myanimelist.com/manga"
+    		},
+
+			{
+				"Nombre":”Youtube”,
+    			"link":"https://www.youtube.com/feed/subscriptions"
+			},
+
+			{
+				"Nombre":GMail,
+    			"link":"https://mail.google.com/mail/u/0/"
+			},
+			{
+				"Nombre":Twitch.Tv,
+    			"link":"http://www.twitch.tv/"
+			}
+	]
+};
